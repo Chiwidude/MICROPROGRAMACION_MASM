@@ -1,0 +1,14 @@
+﻿  Assembling ..\..\..\..\TestASM.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+TestASM.obj : error LNK2026: module unsafe for SAFESEH image.
+masm32.lib(dwtoa.obj) : error LNK2026: module unsafe for SAFESEH image.
+masm32.lib(stdout.obj) : error LNK2026: module unsafe for SAFESEH image.
+masm32.lib(stdin.obj) : error LNK2026: module unsafe for SAFESEH image.
+masm32.lib(strlen.obj) : error LNK2026: module unsafe for SAFESEH image.
+kernel32.lib(kernel32.dll) : error LNK2026: module unsafe for SAFESEH image.
+kernel32.lib(kernel32.dll) : error LNK2026: module unsafe for SAFESEH image.
+kernel32.lib(kernel32.dll) : error LNK2026: module unsafe for SAFESEH image.
+kernel32.lib(kernel32.dll) : error LNK2026: module unsafe for SAFESEH image.
+C:\Users\panch\Desktop\Universidad\Microprogramación\MACRO_ASSAMBLER\LAB1_MACROASSAMBLER\Release\LAB1_MACROASSAMBLER.exe : fatal error LNK1281: Unable to generate SAFESEH image.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(810,5): error MSB6006: "link.exe" exited with code 1281.
