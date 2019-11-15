@@ -1,0 +1,4 @@
+﻿  Assembling LAB2.asm...
+\masm32\include\masm32rt.inc(33): warning A4011: multiple .MODEL directives found : .MODEL ignored
+LAB2.asm(37): warning A4014: instructions and initialized data not supported in BSS segments
+  LAB2_MACROASSAM.vcxproj -> C:\Users\panch\Desktop\Universidad\Microprogramación\MACRO_ASSAMBLER\LAB2_MACROASSAM\Debug\LAB2_MACROASSAM.exe
